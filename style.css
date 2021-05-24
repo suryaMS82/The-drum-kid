@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url("/pexels-ricardo-rojas-3608804.jpg");
+    background-image: url("/images/pexels-ricardo-rojas-3608804.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -28,7 +28,7 @@ h1{
 
 }
  .one{
-    background-image:url("/images.png");
+    background-image:url("/images/images.png");
     width:100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -37,7 +37,7 @@ h1{
 
 }
 .two{
-    background-image:url("/images.png");
+    background-image:url("/images/images.png");
     width:100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -46,7 +46,7 @@ h1{
 
 }
 .three{
-    background-image:url("/1599818366492-Tama.jpg");
+    background-image:url("/images/1599818366492-Tama.jpg");
     width:100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -55,7 +55,7 @@ h1{
     z-index: 100;
 }
 .four{
-    background-image:url("/1599818366492-Tama.jpg");
+    background-image:url("/images/1599818366492-Tama.jpg");
     width:100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -64,7 +64,7 @@ h1{
     z-index: 100;
 }
 .five{
-    background-image:url("/snere\ drum.jpg");
+    background-image:url("/images/snere\ drum.jpg");
     width:100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -73,7 +73,7 @@ h1{
     z-index: 100;
 }
 .six{
-    background-image:url("/kick\ drum.jpg");
+    background-image:url("/images/kick\ drum.jpg");
     width:100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -82,7 +82,7 @@ h1{
     z-index: 100;
 }
 .seven{
-    background-image:url("/hits-crash.webp");
+    background-image:url("/images/hits-crash.webp");
     width:100%;
     background-repeat: no-repeat;
     background-position: center;
